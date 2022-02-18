@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-struct tree
+struct binary tree
 {
 int data;
 struct Node *next;
